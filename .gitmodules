@@ -1,6 +1,8 @@
 [submodule "front"]
 	path = front
 	url = https://github.com/zowx/frontend-Bookbook.git
+	branch = main
 [submodule "back"]
 	path = back
 	url = https://github.com/zowx/backend-Bookbook.git
+	branch = main
